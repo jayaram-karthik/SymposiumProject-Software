@@ -1,0 +1,1 @@
+Objective function value: 25.864598654303087
